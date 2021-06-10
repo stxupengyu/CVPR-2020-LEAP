@@ -1,0 +1,13 @@
+epochs: 10
+lstm_hidden_dimension: 150
+batch_size: 64
+d_a: 100
+emb_size: 300
+GPU: True
+GPU_Number: 1
+load_path: '/data/xiaolin/dataset/RCV/'
+data_token: ''
+lr: 0.001
+scale: 120
+quantile: 0.61
+gamma: 0.1

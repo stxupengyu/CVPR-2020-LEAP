@@ -17,7 +17,7 @@ d_a: 100 #attention dim
 emb_size: 300  
 GPU: True  
 GPU_Number: 2  
-load_path: '/data/xiaolin/dataset/RCV/'#data path  
+load_path: '/data/dataset/RCV/'#data path  
 data_token: ''#no use in current code  
 lr: 0.001  
 scale: 120 # para of CosFace Loss  

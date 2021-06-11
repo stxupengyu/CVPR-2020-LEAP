@@ -1,3 +1,5 @@
+## Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective   
+Unofficial implement for Multi-Label Classification.
 ### Reproducibility:
 python main.py --dataset AAPD
 python main.py --dataset RCV
